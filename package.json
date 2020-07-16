@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "firebase": "^4.8.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "material-design-lite": "^1.3.0",
     "moment": "^2.20.0",
     "vue": "^2.5.2",
